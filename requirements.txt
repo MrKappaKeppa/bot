@@ -1,2 +1,3 @@
-requests>=2.25.0
+python-telegram-bot==20.1  # or the version you are using
+requests
 tenacity
